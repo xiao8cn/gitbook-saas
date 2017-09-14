@@ -1,0 +1,20 @@
+{
+  "name": "baozun-vue-saas-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "docs for baozun-saas-vue",
+  "scripts": {
+    "dev": "gitbook serve"
+  },
+  "keywords": [
+    "vue",
+    "baozun",
+    "saas"
+  ],
+  "author": "jiaoju.wu",
+  "license": "MIT",
+  "dependencies": {
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-theme-vuejs": "^1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "gitbook": ">3.0.0",
+  "plugins": ["theme-vuejs", "-fontsettings", "-search", "-sharing", "tbfed-pagefooter"],
+  "title": "baozun 前端教程",
+  "author" : "jiaoju.wu",
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+        "copyright":"Copyright &copy 钛部 2017",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  },
+  "links": {
+    "gitbook": false
+  }
+}
